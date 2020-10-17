@@ -185,6 +185,20 @@ With our server, typeDefs and resolver setup, we can test our query:
 
 12. [Enforcing Authentication](12-enforce-auth.md)
 
+13. [HTTP Authentication](13-http-auth.md)
+
+14. [Extract Company from User](14-extract-user-data.md)
+
+15. [Apollo Client Setup](15-apollo-client-setup.md)
+
+16. [Caching and Fetch Policy](16-caching-fetch-policy.md)
+
+17. [Update Cache After Mutation](17-mutation-update-cache.md)
+
+18. [GraphQL Fragments](18-graphql-fragments.md)
+
+19. 
+
     
 
 
