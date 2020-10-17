@@ -179,7 +179,13 @@ With our server, typeDefs and resolver setup, we can test our query:
 
 9. [Return Related Jobs](09-return-related-jobs.md)
 
-   
+10. [Create a Job](10-create-job.md)
+
+11. [Mutation Best Practices](11-mutation-best-practice.md)
+
+12. [Enforcing Authentication](12-enforce-auth.md)
+
+    
 
 
 
