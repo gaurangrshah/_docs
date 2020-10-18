@@ -6,7 +6,6 @@ title: Subscription Resolver with PubSub
 details:
   section: 6
   lesson: 37
-docs: https://github.com/gaurangrshah/_docs/blob/graphql/graphql/projects/udemy/graphql-job-board/setup.md
 ---
 
 

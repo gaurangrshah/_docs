@@ -6,7 +6,6 @@ title: Fetching Jobs in the Client
 details:
   section: 2
   lesson: 15
-docs: https://github.com/gaurangrshah/_docs/blob/graphql/graphql/projects/udemy/graphql-job-board/setup.md
 ---
 
 

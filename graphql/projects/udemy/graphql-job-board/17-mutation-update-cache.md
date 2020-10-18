@@ -6,7 +6,6 @@ title: Updating the cache after a Mutation
 details:
   section: 5
   lesson: 31
-docs: https://github.com/gaurangrshah/_docs/blob/graphql/graphql/projects/udemy/graphql-job-board/setup.md
 ---
 
 

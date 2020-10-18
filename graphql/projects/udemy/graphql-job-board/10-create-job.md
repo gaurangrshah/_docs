@@ -6,7 +6,6 @@ title: Create a Job
 details:
   section: 3
   lesson: 21
-docs: https://github.com/gaurangrshah/_docs/blob/graphql/graphql/projects/udemy/graphql-job-board/setup.md
 ---
 
 

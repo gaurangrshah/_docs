@@ -6,7 +6,6 @@ title: Enforce Authentication with context
 details:
   section: 4
   lesson: 24
-docs: https://github.com/gaurangrshah/_docs/blob/graphql/graphql/projects/udemy/graphql-job-board/setup.md
 ---
 
 

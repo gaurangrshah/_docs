@@ -6,7 +6,6 @@ title: Handling GraphQl Error Responses
 details:
   section: 2
   lesson: 18
-docs: https://github.com/gaurangrshah/_docs/blob/graphql/graphql/projects/udemy/graphql-job-board/setup.md
 ---
 
 

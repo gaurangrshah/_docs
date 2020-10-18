@@ -6,7 +6,6 @@ title: Object Asscoiations
 details:
   section: 2
   lesson: 14
-docs: https://github.com/gaurangrshah/_docs/blob/graphql/graphql/projects/udemy/graphql-job-board/setup.md
 ---
 
 

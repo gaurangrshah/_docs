@@ -6,7 +6,6 @@ title: Configuring WebSocketLink in Apollo Cient
 details:
   section: 6
   lesson: 39
-docs: https://github.com/gaurangrshah/_docs/blob/graphql/graphql/projects/udemy/graphql-job-board/setup.md
 ---
 
 

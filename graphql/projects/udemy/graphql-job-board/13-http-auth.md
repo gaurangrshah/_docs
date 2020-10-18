@@ -6,7 +6,6 @@ title: Passing Authentication in HTTP Requests
 details:
   section: 4
   lesson: 25
-docs: https://github.com/gaurangrshah/_docs/blob/graphql/graphql/projects/udemy/graphql-job-board/setup.md
 ---
 
 

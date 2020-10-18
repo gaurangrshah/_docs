@@ -6,7 +6,6 @@ title: Extracting the Company from the Authenticated user
 details:
   section: 4
   lesson: 26
-docs: https://github.com/gaurangrshah/_docs/blob/graphql/graphql/projects/udemy/graphql-job-board/setup.md
 ---
 
 

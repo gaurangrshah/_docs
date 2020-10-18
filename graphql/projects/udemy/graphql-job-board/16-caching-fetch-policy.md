@@ -6,7 +6,6 @@ title: Caching and Fetch Policy
 details:
   section: 5
   lesson: 30
-docs: https://github.com/gaurangrshah/_docs/blob/graphql/graphql/projects/udemy/graphql-job-board/setup.md
 ---
 
 

@@ -6,7 +6,6 @@ title: GraphQL by Example
 details:
   section: 2
   lesson: 10
-docs: https://github.com/gaurangrshah/_docs/blob/graphql/graphql/projects/udemy/graphql-job-board/setup.md
 ---
 
 # [GraphQL Job Board](https://github.com/uptoskill/graphql-job-board)

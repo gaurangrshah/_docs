@@ -6,7 +6,6 @@ title: Returning an Array of Jobs
 details:
   section: 2
   lesson: 12
-docs: https://github.com/gaurangrshah/_docs/blob/graphql/graphql/projects/udemy/graphql-job-board/setup.md
 ---
 
 

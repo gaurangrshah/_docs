@@ -6,7 +6,6 @@ title: Mutation Best Practices
 details:
   section: 3
   lesson: 22
-docs: https://github.com/gaurangrshah/_docs/blob/graphql/graphql/projects/udemy/graphql-job-board/setup.md
 ---
 
 

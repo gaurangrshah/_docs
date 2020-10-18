@@ -6,7 +6,6 @@ title: Enabling WebSockets in Apollo
 details:
   section: 6
   lesson: 36
-docs: https://github.com/gaurangrshah/_docs/blob/graphql/graphql/projects/udemy/graphql-job-board/setup.md
 ---
 
 

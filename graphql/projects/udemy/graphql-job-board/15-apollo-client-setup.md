@@ -6,7 +6,6 @@ title: Apollo Client Setup
 details:
   section: 5
   lesson: 27
-docs: https://github.com/gaurangrshah/_docs/blob/graphql/graphql/projects/udemy/graphql-job-board/setup.md
 ---
 
 

@@ -6,7 +6,6 @@ title: Chat Application Setup
 details:
   section: 6
   lesson: 33
-docs: https://github.com/gaurangrshah/_docs/blob/graphql/graphql/projects/udemy/graphql-job-board/setup.md
 ---
 
 

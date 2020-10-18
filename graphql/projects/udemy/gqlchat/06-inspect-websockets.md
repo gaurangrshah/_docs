@@ -6,7 +6,6 @@ title: Inspecting the WebSocket Protocol
 details:
   section: 6
   lesson: 41
-docs: https://github.com/gaurangrshah/_docs/blob/graphql/graphql/projects/udemy/graphql-job-board/setup.md
 ---
 
 

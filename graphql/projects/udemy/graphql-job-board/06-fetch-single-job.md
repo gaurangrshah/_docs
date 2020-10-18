@@ -6,7 +6,6 @@ title: Query Variables: Fetch a Job
 details:
   section: 2
   lesson: 17
-docs: https://github.com/gaurangrshah/_docs/blob/graphql/graphql/projects/udemy/graphql-job-board/setup.md
 ---
 
 

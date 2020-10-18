@@ -6,7 +6,6 @@ title: Returning Jobs for a Company
 details:
   section: 2
   lesson: 20
-docs: https://github.com/gaurangrshah/_docs/blob/graphql/graphql/projects/udemy/graphql-job-board/setup.md
 ---
 
 
