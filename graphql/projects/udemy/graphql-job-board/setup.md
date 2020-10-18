@@ -197,9 +197,10 @@ With our server, typeDefs and resolver setup, we can test our query:
 
 18. [GraphQL Fragments](18-graphql-fragments.md)
 
-19. 
+    
 
     
 
 
 
+See [Chat Application Setup](19-subscriptions-setup.md)
